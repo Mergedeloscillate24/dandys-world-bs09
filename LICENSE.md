@@ -1,4 +1,4 @@
-#  
+#  Seguro bee swarm simulator scripts é o melhor bee swarm simulator scripts com coleta automática e cura automática. Seguro, confiável e otimizado para máximo desempenho.
 
 
 
